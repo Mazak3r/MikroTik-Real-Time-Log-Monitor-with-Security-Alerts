@@ -107,7 +107,7 @@ This project is **safe to open‑source** because:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mazak3r/mikrotik-monitor.git
+git clone https://github.com/Mazak3r/MikroTik-Real-Time-Log-Monitor-with-Security-Alerts
 cd mikrotik-monitor
 
 Terminal output with colour-coded flags:
