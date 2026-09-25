@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-MikroTik Log Monitor - Real-time log monitoring with email alerts.
-Configuration via environment variables or .env file.
-"""
+
 
 import os
 import re
